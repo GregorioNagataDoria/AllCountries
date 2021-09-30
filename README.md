@@ -7,22 +7,22 @@
 
 <hr/>
 
-#Página inicial
+# Página inicial
 
 <img src="images/start-d.jpg" alt="">
 <hr/>
 
-#Mais países
+# Mais países
 
 <img src="images/middle-d.jpg" alt="">
 <hr/>
 
 
-#Foco em país específico
+# Foco em país específico
 
 <img src="images/zoom-d.jpg" alt="">
 <hr/>
 
-#Exemplo de pesquisa
+# Exemplo de pesquisa
 
 <img src="images/search-d.jpg" alt="">
